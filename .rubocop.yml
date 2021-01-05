@@ -1,0 +1,11 @@
+AllCops:
+  Exclude:
+    - node_modules/**/*
+    - config/initializers/*
+    - lib/tasks/*
+    - script/cucumber
+    - bin/*
+Style/Documentation:
+  Enabled: false
+Layout/LineLength:
+  Max: 120

@@ -1,0 +1,76 @@
+Type,Value,Name
+Forecast Value,10000000,Power
+Forecast Cost,450000,Power
+Forecast Revenue,30000,Power
+High Value Value,1000000,Power
+High Value Cost,20000,Power
+High Valuet Revenue,80000,Power
+Recycle Value,230000,Power
+Recycle Cost,1200000,Power
+Recycle Revenue,5,Power
+Resale Value,5000000,Power
+Recycle Cost,400000,Power
+Recycle Revenue,200000,Power
+Dispose Value,100000,Power
+Dispose Cost,2000,Power
+Dispose Revenue,3000,Power
+Forecast Value,9999000,Switch
+Forecast Cost,449000,Switch
+Forecast Revenue,29000,Switch
+High Value Value,999000,Switch
+High Value Cost,19000,Switch
+High Valuet Revenue,79000,Switch
+Recycle Value,229000,Switch
+Recycle Cost,1199000,Switch
+Recycle Revenue,-995,Switch
+Resale Value,4999000,Switch
+Recycle Cost,399000,Switch
+Recycle Revenue,199000,Switch
+Dispose Value,99000,Switch
+Dispose Cost,1000,Switch
+Dispose Revenue,2000,Switch
+Forecast Value,9980000,Transmission
+Forecast Cost,430000,Transmission
+Forecast Revenue,10000,Transmission
+High Value Value,980000,Transmission
+High Value Cost,0,Transmission
+High Valuet Revenue,60000,Transmission
+Recycle Value,210000,Transmission
+Recycle Cost,1180000,Transmission
+Recycle Revenue,-19995,Transmission
+Resale Value,4980000,Transmission
+Recycle Cost,380000,Transmission
+Recycle Revenue,180000,Transmission
+Dispose Value,80000,Transmission
+Dispose Cost,-18000,Transmission
+Dispose Revenue,-17000,Transmission
+Forecast Value,9997000,Radio
+Forecast Cost,447000,Radio
+Forecast Revenue,27000,Radio
+High Value Value,997000,Radio
+High Value Cost,17000,Radio
+High Valuet Revenue,77000,Radio
+Recycle Value,227000,Radio
+Recycle Cost,1197000,Radio
+Recycle Revenue,-2995,Radio
+Resale Value,4997000,Radio
+Recycle Cost,397000,Radio
+Recycle Revenue,197000,Radio
+Dispose Value,97000,Radio
+Dispose Cost,-1000,Radio
+Dispose Revenue,0,Radio
+Forecast Value,9995500,Misc
+Forecast Cost,445500,Misc
+Forecast Revenue,25500,Misc
+High Value Value,995500,Misc
+High Value Cost,15500,Misc
+High Valuet Revenue,75500,Misc
+Recycle Value,225500,Misc
+Recycle Cost,1195500,Misc
+Recycle Revenue,-4495,Misc
+Resale Value,4995500,Misc
+Recycle Cost,395500,Misc
+Recycle Revenue,195500,Misc
+Dispose Value,95500,Misc
+Dispose Cost,-2500,Misc
+Dispose Revenue,-1500,Misc
